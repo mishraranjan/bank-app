@@ -2,7 +2,7 @@
 import "./PopularBooks.css";
 
 // import TitletypeOne from UI
-import TitleTypeOne from "../../UI/TitleTypeOne/TitletypeOne";
+import TitleTypeOne from "../../UI/TitleTypeOne/TitleTypeOne";
 
 // import usestate
 import { useState } from "react";

@@ -2,7 +2,7 @@
 import "./LatestArticle.css";
 
 // import titletypeone fom UI
-import TitleTypeOne from "../../UI/TitleTypeOne/TitletypeOne";
+import TitleTypeOne from "../../UI/TitleTypeOne/TitleTypeOne";
 
 // import lettestArticleData from Data
 import { latestArticleData } from "../../Data/Data";

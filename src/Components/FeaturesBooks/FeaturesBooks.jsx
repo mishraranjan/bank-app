@@ -1,7 +1,7 @@
 import React from "react";
 import "./FeaturesBooks.css";
 
-import TitleTypeOne from "../../UI/TitleTypeOne/TitletypeOne";
+import TitleTypeOne from "../../UI/TitleTypeOne/TitleTypeOne";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css/navigation";
