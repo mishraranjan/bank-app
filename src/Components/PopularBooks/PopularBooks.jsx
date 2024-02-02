@@ -31,7 +31,7 @@ export default function PopularBooks() {
       <div className="container popularbooks-container">
         <TitleTypeOne
           TitleTop={"Some quality items"}
-          Title={"Poplar Books"}
+          Title={"Popular Books"}
           className="popularbooks-title"
         />
         <div className="filter-button">
