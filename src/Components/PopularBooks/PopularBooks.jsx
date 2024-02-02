@@ -2,7 +2,7 @@
 import "./PopularBooks.css";
 
 // import TitletypeOne from UI
-import TitletypeOne from "../../UI/TitleTypeOne/TitletypeOne";
+import TitleTypeOne from "../../UI/TitleTypeOne/TitletypeOne";
 
 // import usestate
 import { useState } from "react";
@@ -29,7 +29,7 @@ export default function PopularBooks() {
   return (
     <section className="PopularBooks">
       <div className="container popularbooks-container">
-        <TitletypeOne
+        <TitleTypeOne
           TitleTop={"Some quality items"}
           Title={"Poplar Books"}
           className="popularbooks-title"
