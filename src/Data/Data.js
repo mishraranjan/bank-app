@@ -396,8 +396,8 @@ export const navLinks =[
   
     socials: [
       { icon: ImFacebook, link: 'https://www.facebook.com' },
-      { icon: FiInstagram, link: 'https://www.twitter.com' },
-      { icon: GrLinkedinOption, link: 'https://www.instagram.com' },
+      { icon: FiInstagram, link: 'https://www.instagram.com/whoranjanmishra/' },
+      { icon: GrLinkedinOption, link: 'https://www.linkedin.com/in/ranjan-mishra-18106425b/' },
       { icon: RiTwitterXLine, link: 'https://www.twitter.com' },
       { icon: ImBehance, link: 'https://www.twitter.com' }
     ],    
