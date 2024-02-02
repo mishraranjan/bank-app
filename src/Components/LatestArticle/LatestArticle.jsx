@@ -2,7 +2,7 @@
 import "./LatestArticle.css";
 
 // import titletypeone fom UI
-import TitletypeOne from "../../UI/TitleTypeOne/TitletypeOne";
+import TitleTypeOne from "../../UI/TitleTypeOne/TitletypeOne";
 
 // import lettestArticleData from Data
 import { latestArticleData } from "../../Data/Data";
@@ -21,7 +21,7 @@ export default function LatestArticle() {
   return (
     <section className="latestArticle">
       <div className="container latest-article-container">
-        <TitletypeOne Title={"Latest Article"} TitleTop={"Read our articles"} />
+        <TitleTypeOne Title={"Latest Article"} TitleTop={"Read our articles"} />
         <div className="latest-article-content">
           {latestArticleData.map(
             (

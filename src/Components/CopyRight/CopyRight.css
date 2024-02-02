@@ -1,7 +1,6 @@
 .footer-copyright{
     padding: 30px 0;
-border-top: 1
-px solid var(--color-dark);
+    border-top: 1px  solid var(--color-dark);
 background: var(--color-bg-2);
 }
 
